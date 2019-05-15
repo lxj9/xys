@@ -1,0 +1,84 @@
+@charset "utf-8";
+.sousuo{
+	width: 380px;
+	height: 22px;
+	border:1px solid #999999;
+	
+}
+.pc_hide{
+	display: none;
+}
+.pc_show{
+	display: block;
+}
+/*.cw{
+	width: 967px;
+	margin-left: auto;
+	margin-right: auto;
+}*/
+.content1  li img{
+	width: 306px;
+}
+.content1  li p{
+	font-size: 16px;
+}
+.bnav{
+	margin-left: 20px;
+}
+.bnav a{
+	font-size: 18px;
+	display: block;
+	line-height: 40px;
+	margin-left: 0px;
+	width: 172px;
+}
+.bnav{
+	float: left;
+}
+.bnav2{
+	float: right;
+	width: 761px;
+	margin-right: 280px;
+}
+.bnav2 ul li{
+	float: left;
+	margin-left: 20px;
+	width: 231px;
+		margin-bottom: 80px;
+}
+.bn2 h3{
+	font-size: 28px;
+	font-weight: normal;
+	margin-bottom: 20px;
+}
+.bn2 p{
+	line-height: 30px;
+	margin-left: 0px;
+}
+.bn2 a{
+	display: block;
+	line-height: 30px;
+	color: #1570A5;
+}
+.wenzi{
+	height: 310px;
+}
+.wenzi .shang{
+	width: 750px;
+	height: 180px;
+	float: right;
+}
+.wenzi .xia{
+	float: left;
+}
+.wenzi .xia h2{
+	margin-bottom:10px;
+	margin-top: 0px;
+}
+.wenzi .xia p{
+	display: block;
+	line-height: 20px;
+}
+.foot1{
+	width: 800px;
+}
